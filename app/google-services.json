@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458689125035",
+    "project_id": "daraz-clone-project-6e98f",
+    "storage_bucket": "daraz-clone-project-6e98f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458689125035:android:9802cb765d117b710d35ee",
+        "android_client_info": {
+          "package_name": "com.example.daraz_clone_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZkWwSCvYRK_YKD25dyPVCt8BASruVYV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
